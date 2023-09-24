@@ -9,13 +9,13 @@
 - Próximamente habrán nuevas funcionalidades como poder agregar items al carrito
 
 
-#  PRESENTACIÓN
+#  Presentación
 
 
 ![GIF](./gif.gif)
 
 
-# TECNOLOGIAS
+# Tecnologías
 
 
 KissMi usa algunas de las tecnologías más populares dentro de la programación web:
@@ -32,7 +32,7 @@ KissMi usa algunas de las tecnologías más populares dentro de la programación
 ![Firebase_Image](./readme/firebase-icon.png)
 ![CSS_Image](./readme/css-icon.png)
 
-# LIBRERÍAS
+# Librerías
 
 
 Dentro de React, son utilizadas las siguientes librerías:
@@ -42,7 +42,7 @@ Dentro de React, son utilizadas las siguientes librerías:
 - [React-Router-Dom] - Fundamental para la selección de vistas de la aplicación de acuerdo al url.
 - [Typescript] - Utilizada para hacer posible el uso de typescript dentro del framework.
 
-# LOGROS
+# Logros
 
 
 Gracias al virtual DOM que maneja React, es posible renderizar una única vez la barra de navegación y el pie de página. El flujo de las vistas principales de la página pueden observarse en la siguiente imagen:
@@ -65,10 +65,10 @@ personalizar el producto como se muestra en la siguiente imagen:
 **[4]** Al usuario se le permitirá ver un registro de sus órdenes de compra. Si este desea ver el "recibo" de su compra podrá descargarlo en formato pdf:
 
 
-![FEATURES_1](./readme/pdf.png)
+![TECNOLOGIA_1](./readme/pdf.png)
 
 
-# Libraries
+# Librerías
 
 
 Dentro de React, son utilizadas las siguientes librerías:
