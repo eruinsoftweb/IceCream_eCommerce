@@ -16,7 +16,7 @@ const items: Item[] = [
   new ItemShowcase(5,'1/2 Litros'           , 'Elige hasta 2 sabores de helado!'              ,16500  ,imageUrl+'recipientes/medio_litro.png'    , Recipiente, 6),
   new ItemShowcase(6,'1 Litro'              , 'Elige hasta 3 sabores de helado!'              ,32000  ,imageUrl+'recipientes/un_litro.png'       , Recipiente, 7),
   new ItemShowcase(7,'2 Litros'             , 'Elige hasta 4 sabores de helado!'              ,45000  ,imageUrl+'recipientes/dos_litros.png'     , Recipiente, 9),
-  new ItemShowcase(8,'Brownielado'          , 'Brownie y helado... nada más que agregar'      ,13000 ,imageUrl+'postres/brownie.jpg'             , Postre    , 9),
+  new ItemShowcase(8,'Brownielado'          , 'Brownie y helado... nada más que agregar'      ,52000 ,imageUrl+'postres/brownie.jpg'             , Postre    , 9),
   new ItemShowcase(9,'Super porción'        , 'Reserva de helado para toda una vida'          ,15000 ,imageUrl+'postres/choco-salsa-nuez.jpg'    , Postre    , 1),
 ];
 

@@ -84,7 +84,7 @@ Dentro de React, son utilizadas las siguientes librerías:
 ![FOLDERS](./folder-diagram.png)
 
 
-# Instructions
+# Instrucciones de instalación
 
 Estas instrucciones fueron automáticamente generadas por react-create-app
 

@@ -26,7 +26,7 @@ const NavBar: React.FC<{}> = () => {
   return <header>
     <BTNavBar id="navigator" className="top-0" expand="lg" variant="dark" >
       <Container id="nav-container">
-        <BTNavBar.Brand as={Link} to="/"><h2 id="logo">KissMi</h2></BTNavBar.Brand>
+        <BTNavBar.Brand as={Link} to="/"><h2 id="logo">KissMe</h2></BTNavBar.Brand>
           <BTNavBar.Toggle id="nav-toggle" aria-controls="basic-navbar-nav" />
           <BTNavBar.Collapse id="navbarScroll" className="">
             <Nav>
